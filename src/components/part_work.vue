@@ -1145,16 +1145,16 @@
           myChart_4.setOption(option);
       },
         draw_4Main(){
-          let img1 =  require('../assets/hong.png');
-          let img11=  require('../assets/hong.png');
-          let img2 =  require('../assets/lan.png');
-          let img22=  require('../assets/lan.png');
-          let img3 =  require('../assets/fen.png');
-          let img33 =  require('../assets/fen.png');
-          let img4 =  require('../assets/cheng.png');
-          let img44 =  require('../assets/cheng.png');
-          let img5=  require('../assets/zi.png');
-          let img55 =  require('../assets/zi.png');
+          let img2 =  require('../assets/hong.png');
+          let img22=  require('../assets/hong.png');
+          let img1 =  require('../assets/lan.png');
+          let img11=  require('../assets/lan.png');
+          let img4 =  require('../assets/fen.png');
+          let img44 =  require('../assets/fen.png');
+          let img5 =  require('../assets/cheng.png');
+          let img55 =  require('../assets/cheng.png');
+          let img3=  require('../assets/lv.png');
+          let img33 =  require('../assets/lv.png');
 
           let option = {
             title: {
